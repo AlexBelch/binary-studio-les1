@@ -1,8 +1,8 @@
 ﻿https://blog.agilelabs.com/pair-programming-is-your-best-chance-at-learning-to-be-a-productive-developer-d4f854ecc853
 
-Samer Buna
-Reinventing coding education at jsComplete.com
-May 19
+**Samer Buna**
+*Reinventing coding education at jsComplete.com*
+*May 19*
 
 # Pair programming is your best chance at learning to be a productive developer
 
@@ -51,31 +51,31 @@ If you have any questions, I am on Slack: https://slack.jscomplete.com/
 Please share this message with anyone you know who is trying to learn to program.
 
 
-Samer Buna
-Medium member since Mar 2017
-Reinventing coding education at jsComplete.com
+**Samer Buna**
+*Medium member since Mar 2017*
+*Reinventing coding education at jsComplete.com*
 
 Conversation with Samer Buna.
 Go to the profile of Scott Molinari
-Scott Molinari
+**Scott Molinari**
 May 20
-It's a good idea Samer.
+*It's a good idea Samer.*
 
 1 response
 Go to the profile of Samer Buna
-Samer Buna
+**Samer Buna**
 May 20
-Thanks
+*Thanks*
 
 Conversation with Samer Buna.
 Go to the profile of Ashish Kumar Badtiya
-Ashish Kumar Badtiya
+**Ashish Kumar Badtiya**
 May 20
-I want to join, what I need to do?????
-	I am waiting!!!
+*I want to join, what I need to do?????*
+*	I am waiting!!!*
 
 Conversation with Samer Buna.
 Go to the profile of Alex Belch
-Alex Belch
+**Alex Belch**
 May 20
-What is the price of this course?
+*What is the price of this course?*

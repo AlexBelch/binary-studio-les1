@@ -8,7 +8,7 @@ May 19
 
 ## Learning to program takes years and there are no easy shortcuts
 
-https://www.flickr.com/photos/zhaffsky/4496671320
+![Image](https://www.flickr.com/photos/zhaffsky/4496671320)
 No idea who these guys are, but that’s truly pair programming in action! coding is 80% thinking and 20% typing.
 
 I learned programming the hard way. By making a lot of mistakes and learning from each and every one of them. I started young and it took me about 5 years before I was comfortable labeling myself a “Productive Developer”

@@ -4,9 +4,9 @@ Samer Buna
 Reinventing coding education at jsComplete.com
 May 19
 
-Pair programming is your best chance at learning to be a productive developer
+# Pair programming is your best chance at learning to be a productive developer
 
-Learning to program takes years and there are no easy shortcuts
+## Learning to program takes years and there are no easy shortcuts
 
 https://www.flickr.com/photos/zhaffsky/4496671320
 No idea who these guys are, but that’s truly pair programming in action! coding is 80% thinking and 20% typing.

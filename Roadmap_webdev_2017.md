@@ -24,13 +24,13 @@ And for DevOps, which he views as an extension of back-end development:
 
 ![Image4](https://cdn-images-1.medium.com/max/1000/1*Qc0PqmXenUZmRvnkMh9AoQ.png)
 
-Of course, these just the tools. Check out Saul Costa’s exploration of the underlying software development skills, which are far more important than the tools (*5 minute read*)
+Of course, these just the tools. Check out Saul Costa’s exploration of the underlying software development skills, which are far more important than the tools (__*5 minute read*__)
 
 And here are three other links worth your time:
 
- - How one camper turned a rejected conference talk into 300,000 views on Medium and YouTube (*4 minute read*)
- - How the Atom team got their JavaScript-based code editor to start up significantly faster (*6 minute read*)
- - Dive into Deep Learning with one of these 23 online courses (*8 minute read*)
+ - How one camper turned a rejected conference talk into 300,000 views on Medium and YouTube (__*4 minute read*__)
+ - How the Atom team got their JavaScript-based code editor to start up significantly faster (__*6 minute read*__)
+ - Dive into Deep Learning with one of these 23 online courses (__*8 minute read*__)
 
 ## Thought of the day:
 

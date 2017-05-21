@@ -6,7 +6,7 @@
 
 # A roadmap to becoming a web developer in 2017
 
-https://cdn-images-1.medium.com/max/1000/1*GD5sdzPlE3h4ljSWNaPx0Q.png
+![Image1](https://cdn-images-1.medium.com/max/1000/1*GD5sdzPlE3h4ljSWNaPx0Q.png)
 
 These charts were created by GitHub user **Kamranahmedse**. They visualize three roadmaps to becoming a web developer.
 

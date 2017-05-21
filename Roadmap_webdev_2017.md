@@ -13,13 +13,16 @@ These charts were created by GitHub user **Kamranahmedse**. They visualize three
 Even though I disagree with some of his suggestions (I recommend you starting building projects almost immediately — and you will with **freeCodeCamp’s curriculum**), I still think this is worth reading. It will give you a birds-eye view of the modern tools that web developers use.
 
 Here’s his chart for front-end development:
-https://cdn-images-1.medium.com/max/1000/1*s6DocnGRV5y0QdZ_JHN6Xg.png
+
+![Image2](https://cdn-images-1.medium.com/max/1000/1*s6DocnGRV5y0QdZ_JHN6Xg.png)
 
 And for back-end development:
-https://cdn-images-1.medium.com/max/1000/1*wS8k6IlIgSb-7-lPhaNyrQ.png
+
+![Image3](https://cdn-images-1.medium.com/max/1000/1*wS8k6IlIgSb-7-lPhaNyrQ.png)
 
 And for DevOps, which he views as an extension of back-end development:
-https://cdn-images-1.medium.com/max/1000/1*Qc0PqmXenUZmRvnkMh9AoQ.png
+
+![Image4](https://cdn-images-1.medium.com/max/1000/1*Qc0PqmXenUZmRvnkMh9AoQ.png)
 
 Of course, these just the tools. Check out Saul Costa’s exploration of the underlying software development skills, which are far more important than the tools (*5 minute read*)
 
@@ -34,13 +37,14 @@ And here are three other links worth your time:
 >“Ever Tried. Ever failed. No matter. Try again. Fail again. Fail better.” — Samuel Beckett
 ## Image of the day:
 
-https://cdn-images-1.medium.com/max/800/1*CX7w5cnB_M9dvmc4tKwnTg.png
+
+![Image5](https://cdn-images-1.medium.com/max/800/1*CX7w5cnB_M9dvmc4tKwnTg.png)
 
 If you Google “once in a blue moon” it will tell you the precise frequency of blue moons in hertz.
 
 ## Study group of the day:
-https://cdn-images-1.medium.com/max/800/1*tt3xrhyx5zwBeer-dQNeAw.jpeg
 *freeCodeCamp Kolkata*
+![Image6](https://cdn-images-1.medium.com/max/800/1*tt3xrhyx5zwBeer-dQNeAw.jpeg)
 
 Happy coding!
 
